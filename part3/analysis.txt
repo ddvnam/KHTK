@@ -1,0 +1,52 @@
+infer time: 59.25 minutes
+Mean (macro) AUC: 0.9877813855178054
+model_size: 51.73 MB
+
+Phân tích 1 số trường hợp nhầm lẫn:
+1) Egretta thula → Ardea alba
+
+(Cò tuyết ↔ Cò trắng lớn)
+Lý do dễ nhầm:
+Cả hai đều là cò trắng, cổ dài, hay đứng ven nước.
+Khi kêu, chúng phát ra tiếng khàn – ngắn – đơn điệu, rất giống nhau.
+Nhiều lúc tiếng kêu chỉ là “quạc” nhẹ, nghe qua tai người cũng… như nhau.
+Nếu trong môi trường có gió, nước, ếch nhái → âm càng khó phân biệt.
+
+2) Ara chloropterus → Ara ararauna
+
+(Vẹt macaw đỏ ↔ macaw xanh-vàng)
+Lý do nhầm:
+Hai con này ngoại hình khác hẳn, nhưng tiếng kêu thì… y chang.
+Macaw thường phát ra tiếng ré, the thé, kéo dài, gần như không có giai điệu.
+Mỗi khi chúng kêu, âm thanh chủ yếu là “KRAAAAW!” — loài nào cũng na ná loài nào.
+👉 Loài vẹt lớn gần như không phân biệt bằng tiếng, chỉ phân biệt bằng màu lông.
+
+3) Myiozetetes similis → Pitangus sulphuratus
+(Flycatcher vàng ↔ Great Kiskadee)
+Lý do nhầm:
+Hai loài này nhìn đã giống, lại sống trong cùng môi trường (vườn, ven rừng).
+Kiểu kêu đều ngắn, cao, và hơi chói.
+Pitangus kêu to hơn, nhưng trong bản ghi âm ngắn đôi khi không nghe ra khác biệt.
+
+4) Nyctibius grandis → Nyctibius griseus
+(Hai loài chim nuốc đêm – Potoo)
+Lý do nhầm:
+Cả hai gần như cùng loài, cùng chi, cùng nơi sống, cùng kiểu hoạt động ban đêm.
+Tiếng kêu chủ yếu là “huuu… huuu…” kéo dài, vang xa.
+Sự khác nhau nằm ở độ dài hoặc độ trầm → nhiều người cũng không phân biệt nổi.
+
+5) Setophaga pitiayumi → Coereba flaveola
+(Warbler ↔ Bananaquit)
+Lý do nhầm:
+Hai loài chim nhỏ xíu, hay nhảy nhót, sống cùng khu vực có cây bụi.
+Kiểu kêu đều nhanh, líu ríu, liên tục, dạng “tsit-tsit-tsit”.
+Nếu chỉ nghe 1–2 giây, rất khó biết con nào đang hót.
+
+
+
+Các cặp trên bị nhầm phần lớn vì:
+Sống chung môi trường → chia sẻ kiểu kêu.
+Cùng họ, cùng chi → âm thanh giống nhau tự nhiên.
+Tiếng kêu đơn giản, ít giai điệu → càng dễ lẫn.
+Bị che bởi tiếng môi trường → phần đặc trưng bị mất.
+Clip quá ngắn → không nghe ra đặc điểm riêng.

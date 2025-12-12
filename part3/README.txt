@@ -1,0 +1,3 @@
+-stats: chứa các file csv liên quan đến thống kê lỗi dự đoán của mô hình (confusion, thống kê lỗi theo species) và AUC cho từng species_id
+-results: kết quả chạy infer.
+- infer code: file notebook chạy infer (chưa clean code).
