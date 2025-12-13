@@ -72,6 +72,6 @@ Các kiến trúc như EfficientNet-B0 hay ResNet-18 được thiết kế để
 
 Lý do 3: Mô phỏng tri giác sinh học 
 
-Tiếng chim được tạo ra để giao tiếp và được nghe bởi... chim. Tai của chim có cơ chế lọc tần số tương tự thang đo Mel. Do đó, biểu diễn Mel Spectrogram là cách "nhìn" âm thanh gần gũi nhất với cách mà loài chim cảm nhận, giúp mô hình AI tập trung vào đúng các đặc trưng âm học quan trọng.
+Tiếng chim được tạo ra để giao tiếp và được nghe bởi chim. Tai của chim có cơ chế lọc tần số tương tự thang đo Mel. Do đó, biểu diễn Mel Spectrogram là cách "nhìn" âm thanh gần gũi nhất với cách mà loài chim cảm nhận, giúp mô hình AI tập trung vào đúng các đặc trưng âm học quan trọng.
 ## 2.2 Mô hình lựa chọn
 ## 2.3 So sánh kết quả
