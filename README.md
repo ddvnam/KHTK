@@ -74,4 +74,21 @@ Lý do 3: Mô phỏng tri giác sinh học
 
 Tiếng chim được tạo ra để giao tiếp và được nghe bởi chim. Tai của chim có cơ chế lọc tần số tương tự thang đo Mel. Do đó, biểu diễn Mel Spectrogram là cách "nhìn" âm thanh gần gũi nhất với cách mà loài chim cảm nhận, giúp mô hình AI tập trung vào đúng các đặc trưng âm học quan trọng.
 ## 2.2 Mô hình lựa chọn
+Nhóm sử dụng các model để xử lý bài toán trên bao gồm: Resnet18, ResNet50, EfficientNet-B0 và EfficientNet-B1 làm backbone chính để trích xuất đặc trưng từ Mel-spectrograms. Lý do lựa chọn bao gồm:
+
+- ResNet50: Đóng vai trò là một baseline mạnh mẽ và ổn định. Với kiến trúc Residual sâu, mô hình có khả năng học các đặc trưng phức tạp của âm thanh mà không gặp vấn đề biến mất đạo hàm, đảm bảo độ chính xác nền tảng tốt.
+
+- EfficientNet (B0 & B1): Tối ưu hóa sự cân bằng giữa độ chính xác và tài nguyên tính toán đảm bảo có thể phù hợp với ràng buộc tài nguyên tính toán.
+
+  =========================
+Đoạn này thêm hình vẽ kiến trúc của resnet với efficientnet vào
+  =========================
+
+Kích thước nhỏ gọn giúp tăng tốc độ huấn luyện và suy luận (inference), phù hợp với giới hạn thời gian chạy kernel của Kaggle.
+
+Đa dạng hóa Ensemble: Việc kết hợp kiến trúc cổ điển (ResNet) và hiện đại (EfficientNet) tạo ra sự đa dạng trong cách biểu diễn dữ liệu, giúp giảm phương sai và tăng độ tin cậy cho kết quả dự đoán cuối cùng.
+
 ## 2.3 So sánh kết quả
+
+so sánh kết quả thì trong folder resnet efficient net có ảnh của nó đấy 
+- phần so sánh tại sao sai thì có trong folder inference rồi
