@@ -86,9 +86,9 @@ Nhóm sử dụng các model để xử lý bài toán trên bao gồm: Resnet18
 
 Kích thước nhỏ gọn giúp tăng tốc độ huấn luyện và suy luận (inference), phù hợp với giới hạn thời gian chạy kernel của Kaggle.
 
-Đa dạng hóa Ensemble: Việc kết hợp kiến trúc cổ điển (ResNet) và hiện đại (EfficientNet) tạo ra sự đa dạng trong cách biểu diễn dữ liệu, giúp giảm phương sai và tăng độ tin cậy cho kết quả dự đoán cuối cùng.
+Việc thực nghiệm trên nhiều kiến trúc với độ phức tạp khác nhau giúp nhóm đánh giá và lựa chọn được giải pháp tối ưu nhất đối với ràng buộc tài nguyên tính toán. Mục tiêu là tìm ra điểm cân bằng (trade-off) tốt nhất, đảm bảo mô hình đạt độ chính xác cao nhưng vẫn hoạt động mượt mà trong giới hạn tài nguyên.
 
 ## 2.3 So sánh kết quả
 
 so sánh kết quả thì trong folder resnet efficient net có ảnh của nó đấy 
-- phần so sánh tại sao sai thì có trong folder inference rồi
+phần so sánh, stats  tại sao một số sample hay bị đoán sai thì có trong folder part3 rồi
